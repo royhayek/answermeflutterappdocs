@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://royhayek.github.io/answermeflutterappdocs/blog</id>
+    <title>AnswerMe - Question &amp; Answer Flutter App Blog</title>
+    <updated>2021-04-08T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://royhayek.github.io/answermeflutterappdocs/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest AnswerMe - Question &amp; Answer Flutter App news and events.</subtitle>
+    <logo>https://royhayek.github.io/answermeflutterappdocs/img/favicon.ico</logo>
+    <rights>Copyright © 2021 royhayek.com</rights>
+    <entry>
+        <title type="html"><![CDATA[Version 1.0]]></title>
+        <id>https://royhayek.github.io/answermeflutterappdocs/blog/2021/04/08/version-1.0.html</id>
+        <link href="https://royhayek.github.io/answermeflutterappdocs/blog/2021/04/08/version-1.0.html"/>
+        <updated>2021-04-08T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<ul> <li>Initial Release</li> </ul> ]]></summary>
+        <author>
+            <name>Roy Hayek</name>
+        </author>
+    </entry>
+</feed>

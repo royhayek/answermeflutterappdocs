@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>AnswerMe - Question &amp; Answer Flutter App Blog</title>
+        <link>https://royhayek.github.io/answermeflutterappdocs/blog</link>
+        <description>The best place to stay up-to-date with the latest AnswerMe - Question &amp; Answer Flutter App news and events.</description>
+        <lastBuildDate>Thu, 08 Apr 2021 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>AnswerMe - Question &amp; Answer Flutter App Blog</title>
+            <url>https://royhayek.github.io/answermeflutterappdocs/img/favicon.ico</url>
+            <link>https://royhayek.github.io/answermeflutterappdocs/blog</link>
+        </image>
+        <copyright>Copyright © 2021 royhayek.com</copyright>
+        <item>
+            <title><![CDATA[Version 1.0]]></title>
+            <link>https://royhayek.github.io/answermeflutterappdocs/blog/2021/04/08/version-1.0.html</link>
+            <guid>https://royhayek.github.io/answermeflutterappdocs/blog/2021/04/08/version-1.0.html</guid>
+            <pubDate>Thu, 08 Apr 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<ul> <li>Initial Release</li> </ul> ]]></description>
+        </item>
+    </channel>
+</rss>
